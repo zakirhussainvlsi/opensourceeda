@@ -1,4 +1,4 @@
-# opensourceeda
+# open source EDA
 
 This repository will have the following 
 
