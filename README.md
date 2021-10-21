@@ -13,3 +13,6 @@ This repository will have the following
 
 <ol><li>Verilog-HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code By mshr-h</li>
 <li>Graphviz preview By EFanZh</li></ol>
+
+![image](https://user-images.githubusercontent.com/92418354/138196202-8956b0bd-6df4-4178-b91a-7865bd41d824.png)
+
