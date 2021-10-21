@@ -4,13 +4,14 @@ This repository will have the following
 
 1. open source verilog simulator - Icarus also known as iverilog
 2. open source waveform viewer gtkwave
-3. open source verilog synhhesis tool - yosys
-4. vs code as IDE
+3. Graphviz is open source graph visualization software
+4. open source verilog synhhesis tool - yosys
+5. vs code as IDE
 
 
 <h2><a href="https://drive.google.com/drive/folders/1WgWNOLdMSXDQtqfFmxVxLkStSSGlS3Rs?usp=sharing">Download Link</a></h2>
 
-<H3>After Installing the Icarus iverilog and we need to set the path, follow these steps to set the path</h3>
+<H3>After Installing the Icarus iverilog, gtkwave and graphviz, we need to set the path, follow these steps to set the path</h3>
 1. STEP 1<br/>
 
 ![image](https://user-images.githubusercontent.com/92418354/138196676-2dca4b52-82ac-4ed4-942a-fbd93bd8d6cd.png)
