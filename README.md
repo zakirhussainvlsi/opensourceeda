@@ -8,3 +8,8 @@ This repository will have the following
 
 
 <h2><a href="https://drive.google.com/drive/folders/1WgWNOLdMSXDQtqfFmxVxLkStSSGlS3Rs?usp=sharing">Download Link</a></h2>
+
+<h4> After Installing vs code, Install the following extensions</h4>
+
+<ol><li>Verilog-HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code By mshr-h</li>
+<li>Graphviz preview By EFanZh</li></ol>
