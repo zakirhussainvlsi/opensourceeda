@@ -1,0 +1,8 @@
+#Synthesis Report
+
+read_liberty -lib cmos_cells.lib
+read_verilog design_file.v
+synth -top module_name
+dfflibmap -liberty cmos_cells.lib
+abc -liberty cmos_cells.lib
+tee -o synth_report.txt stat -liberty cmos_cells.lib
