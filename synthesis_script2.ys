@@ -1,0 +1,11 @@
+#when multiple modules are in the design
+
+read_liberty -lib cmos_cells.lib
+read_verilog sub_module_design1.v sub_module_design2.v sub_module_design3.v top_design.v
+synth -top top_module_name
+dfflibmap -liberty cmos_cells.lib
+abc -liberty cmos_cells.lib
+tee -o synth_report.txt stat -liberty cmos_cells.lib
+flatten //For hierarchical design flatten is not required
+show top_module_name
+write_verilog -noattr synth_netlist.v
