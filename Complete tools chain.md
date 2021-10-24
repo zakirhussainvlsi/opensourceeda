@@ -2,6 +2,6 @@
 
 Follow these steps to use comlete design tools 
 
-1. [Download the virtual machine from the link](https://drive.google.com/drive/folders/1OyIJfVUsH48eC8sYwlszqnSR3Phi1bOn?usp=sharing). <br/>
+1. [Download the virtual machine from the link](https://drive.google.com/drive/folders/1OyIJfVUsH48eC8sYwlszqnSR3Phi1bOn?usp=sharing).
 
 2. [Download and install Oracle Virtual box from the link]([https://download.virtualbox.org/virtualbox/6.1.28/VirtualBox-6.1.28-147628-Win.exe).
