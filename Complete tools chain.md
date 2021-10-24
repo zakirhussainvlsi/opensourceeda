@@ -13,7 +13,7 @@ Follow these steps to use comlete design tools
 
 ![image](https://user-images.githubusercontent.com/92418354/138579067-4c118193-0367-44af-9487-39347a20a9db.png)
 
-5. open virtualbox by double clicking it, and do the following 
+5. <h4>open virtualbox by double clicking it, and do the following</h4>
 
     <b>step 1:</b>
 
@@ -39,3 +39,9 @@ Follow these steps to use comlete design tools
 
     ![image](https://user-images.githubusercontent.com/92418354/138579708-8e41c7fe-5c9e-4033-a60b-42dae67affa5.png)
 
+   <b>step 7:</b>
+
+   ![image](https://user-images.githubusercontent.com/92418354/138579833-ae67b15c-349a-435b-aa69-6f687af4c995.png)
+
+
+6. <h4> Please note the password : root123 </h4>
