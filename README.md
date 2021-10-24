@@ -1,4 +1,4 @@
-# open source EDA
+# open source Digital Frontend EDA tools 
 
 This repository will have the following 
 
