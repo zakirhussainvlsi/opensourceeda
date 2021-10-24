@@ -15,27 +15,27 @@ Follow these steps to use comlete design tools
 
 5. open virtualbox by double clicking it, and do the following 
 
-    step 1: 
+    <b>step 1:</b>
 
     ![image](https://user-images.githubusercontent.com/92418354/138579164-0e2b8e6a-f4ef-4ef0-b231-1b4bcf11286d.png)
      
-    step 2: 
+    <b>step 2:</b> 
 
     ![image](https://user-images.githubusercontent.com/92418354/138579362-fcb25331-05d3-4796-ad50-41558b0fc1dd.png)
 
-    step 3: 
+    <b>step 3:</b>
 
     ![image](https://user-images.githubusercontent.com/92418354/138579460-f285e6d9-e558-4ab1-a53b-1bbfc8a58ec2.png)
 
-    step 4: 
+    <b>step 4:</b>
 
     ![image](https://user-images.githubusercontent.com/92418354/138579517-597eb295-2ab7-4ff9-9d64-48381a46b9ea.png)
 
-    step 5: 
+    <b>step 5:</b>
 
     ![image](https://user-images.githubusercontent.com/92418354/138579580-e6ac5031-1dd7-48ac-b5b8-bb7b4f1149c1.png)
 
-    step 6: 
+    <b>step 6:</b>
 
     ![image](https://user-images.githubusercontent.com/92418354/138579708-8e41c7fe-5c9e-4033-a60b-42dae67affa5.png)
 
