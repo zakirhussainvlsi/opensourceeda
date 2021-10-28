@@ -1,6 +1,6 @@
 # Complete Digital design tools chain from RTL-to-GDSII
 
-Follow these steps to use comlete design tools 
+Follow these steps to use complete design tools 
 
 1. [Download the Virtual EDA tools machine](https://drive.google.com/drive/folders/1OyIJfVUsH48eC8sYwlszqnSR3Phi1bOn?usp=sharing).
 
