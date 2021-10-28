@@ -8,7 +8,7 @@ Follow these steps to use complete design tools
 
 3. [Download and install Oracle Virtual box](https://download.virtualbox.org/virtualbox/6.1.28/VirtualBox-6.1.28-147628-Win.exe).
 
-4. After ibnstalling, you must be seeing this shortcut icon on your desktop
+4. After installing, you must be seeing this shortcut icon on your desktop
 
 
 ![image](https://user-images.githubusercontent.com/92418354/138579067-4c118193-0367-44af-9487-39347a20a9db.png)
