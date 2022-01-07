@@ -1,4 +1,4 @@
-# open source Digital Frontend EDA tools 
+# open source Digital Frontend EDA tools for windows OS
 
 This repository will have the following 
 
